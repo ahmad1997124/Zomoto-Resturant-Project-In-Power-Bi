@@ -13,8 +13,6 @@ This dashboard analyzes restaurant ratings and delivery metrics from Zomato to h
 - Filterable views by cuisine type and delivery options
 - Top-rated restaurants by location
 
-## 📷 Screenshots
-*(Insert dashboard images here)*
 
 ## 📂 Dataset
 Sample Zomato dataset with restaurant information, ratings, and delivery data.
